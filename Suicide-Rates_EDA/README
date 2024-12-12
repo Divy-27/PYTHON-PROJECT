@@ -1,0 +1,62 @@
+Suicide Rates Analysis and Visualization Project
+This project focuses on the analysis and visualization of global suicide rates using a structured dataset. It aims to uncover key patterns and insights, such as demographic trends, socioeconomic factors, and regional variations, to support better decision-making and interventions.
+
+Table of Contents
+Introduction
+Dataset Overview
+Data Pre-Processing
+Handling Missing Values
+Removing Duplicate Rows
+Data Transformation (e.g., converting units)
+Analysis and Insights
+Genre and Category Analysis
+Free vs. Paid Apps in Different Categories
+Popularity Trends by Ratings and Genres
+Multilingual and Multi-Device App Analysis
+Correlation Analysis
+Feature Engineering
+Results
+How to Use
+Future Scope
+Contributing
+License
+Introduction
+This project analyzes suicide rates across different demographics and socioeconomic indicators. Using data preprocessing, statistical analysis, and visualization techniques, it provides actionable insights to better understand and address this critical issue.
+
+Dataset Overview
+The dataset used in this project is sourced from master.csv. It includes information such as:
+
+Year
+Country
+Gender
+Age group
+Suicide rates (per 100k population)
+GDP per capita
+Human Development Index (HDI)
+Data Pre-Processing
+To ensure clean and reliable data, the following steps were taken:
+
+Handling Missing Values: Missing data was filled or removed as necessary.
+Removing Duplicate Rows: Ensured no duplicate records affected the analysis.
+Data Transformation: Converted relevant fields (e.g., size or GDP units) for easier interpretation.
+Analysis and Insights
+The analysis explores several key areas:
+
+Trends in Suicide Rates:
+Variations by gender, age group, and country.
+Economic Indicators:
+Relationship between GDP, HDI, and suicide rates.
+Most Affected Groups:
+High-risk demographics such as males aged 35-54.
+Regional Analysis:
+Countries and regions with the highest and lowest suicide rates.
+Correlation Analysis
+A Pearson Correlation analysis was conducted to identify relationships between key variables, such as:
+
+Suicide rates and GDP per capita
+Age groups and gender impact
+Feature Engineering
+New features were created to enhance the analysis, such as:
+
+Categorizing countries by income levels.
+Aggregating age groups into broader categories.
